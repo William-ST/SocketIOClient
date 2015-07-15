@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocketIoClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="send">ENVIAR</string>
+    <string name="action_send">Enviando...</string>
+    <string name="prompt_message">Mensaje</string>
+    <string name="action_attach">ADJUNTAR IMAGEN</string>
+    <string name="action_capture">CAPTURAR IMAGEN</string>
+</resources>
